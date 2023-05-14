@@ -2,8 +2,6 @@ import streamlit as st
 from routes import finding_routes
 from utils import generate_graph, get_location
 
-if 'CTR' not in st.session_state:
-    st.session_state['CTR'] = False
 if 'STR' not in st.session_state:
     st.session_state['STR'] = False
 if 'CTY' not in st.session_state:
