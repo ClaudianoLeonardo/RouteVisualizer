@@ -85,6 +85,18 @@ Se preferir executar o projeto em um container Docker, siga estas etapas:
 
 6. Abra o navegador e vá para `http://localhost:8501` para acessar a interface do usuário.
 
+
+
+## Contribuidores
+
+[Claudiano Leonardo da Silva](https://github.com/ClaudianoLeonardo)
+ 
+[Victor do Nascimento Gomes](https://github.com/VictorNGomes)
+  
+
+
+
+
 ## Uso/Exemplos
 
 
@@ -94,10 +106,5 @@ https://github.com/ClaudianoLeonardo/RouteVisualizerBrazil/assets/55771749/cfcc6
 
 
 
-## Contribuidores
 
-[Claudiano Leonardo da Silva](https://github.com/ClaudianoLeonardo)
- 
-[Victor do Nascimento Gomes](https://github.com/VictorNGomes)
-  
 
